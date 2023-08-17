@@ -1,2 +1,2 @@
 # health-analytics
-Assignment 2 Python Coding Exercise
+This assignment is a primer for HHA 504 and HHA 507
