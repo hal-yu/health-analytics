@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Number Variable
-x = 5
+Five = 5
 
 # String Variable
 String = "String"
